@@ -545,7 +545,7 @@ input, select, textarea {
 					}
 
 
-					@media screen and (max-width: 600px) {
+					@media screen and (max-width: 667px) {
 						#main2 > .post header.major2 h2 {
 							font-size: 1.5rem;
 							line-height: 1.2;
