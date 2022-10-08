@@ -391,6 +391,12 @@ input, select, textarea {
 					padding: 4rem 2rem 2rem 2rem ;
 				}
 
+				@media screen and (max-width: 600px) {
+				#main1 > .post {
+					padding: 4rem 1rem 2rem 1rem;
+				}
+			}
+
 					#main1 > .post header.major > .date {
 						margin-top: -1rem;
 						margin-bottom: 2rem;
