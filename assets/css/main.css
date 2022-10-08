@@ -509,6 +509,18 @@ input, select, textarea {
 						 margin: 0 0 1.5rem 0;
 					  }
 					}
+
+
+                    
+					@media screen and (max-width: 600px) {
+						#main2 > .post header.major2 > h1, #main2 > .post header.major2 h2 {
+							font-size: 1.75rem;
+							margin: 0 0 3rem 0;
+						}
+						}
+
+
+
 		
 					#main2 > .post.featured {
 						text-align: center;
