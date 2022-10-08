@@ -511,15 +511,6 @@ input, select, textarea {
 					}
 
 
-                    
-					@media screen and (max-width: 600px) {
-						#main2 > .post header.major2 > h1, #main2 > .post header.major2 h2 {
-							font-size: 1.75rem;
-							margin: 0 0 3rem 0;
-						}
-						}
-
-
 
 		
 					#main2 > .post.featured {
@@ -552,6 +543,15 @@ input, select, textarea {
 							}
 		
 					}
+
+
+					@media screen and (max-width: 600px) {
+						#main2 > .post header.major2 h2 {
+							font-size: 1.5rem;
+							line-height: 1.2;
+							margin: 0 0 3rem 0;
+						  }
+						}
 
 
 
