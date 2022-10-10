@@ -4560,6 +4560,13 @@ input, select, textarea {
 
 		}
 
+		@media screen and (max-width: 500px) {
+			#header .logo {
+				margin-right: 1rem;
+				margin-left: 1rem;
+			 }
+		}
+
 /* Nav */
 
 	#nav {
