@@ -4440,6 +4440,13 @@ input, select, textarea {
 
 		}
 
+		@media screen and (max-width: 667px) {
+			#intro h1 {
+			font-size: 2.75rem;
+			 }
+		}
+
+
 /* Header */
 
 	#header {
