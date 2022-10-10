@@ -4446,6 +4446,12 @@ input, select, textarea {
 			 }
 		}
 
+		@media screen and (max-width: 500px) {
+			#intro {
+				min-height: 70vh;
+			 }
+		}
+
 
 /* Header */
 
