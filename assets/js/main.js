@@ -21,6 +21,13 @@
 			xxsmall:   [null,       '360px'    ]
 		});
 
+    // header logo link to section animation
+		$(".logo").click(function(e) {
+			e.preventDefault();
+			var aid = $(this).attr("href");
+			$('html,body').animate({scrollTop: $(aid).offset().top}, 1600);
+		});
+
 	/**
 	 * Applies parallax scrolling to an element's background image.
 	 * @return {jQuery} jQuery object.
