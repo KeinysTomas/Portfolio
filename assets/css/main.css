@@ -239,6 +239,14 @@ input, select, textarea {
 	max-height: 100%; 
 	overflow: hidden;
   }
+
+  @media screen and (max-width: 500px) {
+	#Iframe-Master-CC-and-Rs {
+		max-width: 450px;
+		max-height: 100%; 
+		overflow: hidden;
+	  }
+	}
   
   /* inner wrapper: make responsive */
   .responsive-wrapper {
