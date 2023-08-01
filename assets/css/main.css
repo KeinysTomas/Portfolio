@@ -529,7 +529,7 @@ input, select, textarea {
 					@media screen and (max-width: 736px) {
 		
 						#main2 > .post {
-							padding: 4rem 2rem 2rem 2rem ;
+							padding: 4rem 2rem 6rem 2rem ;
 						}
 		
 							#main2 > .post header.major2 > .date {
