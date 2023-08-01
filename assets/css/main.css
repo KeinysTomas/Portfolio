@@ -464,6 +464,10 @@ input, select, textarea {
 				max-width: 72rem;
 				z-index: 2;
 			}
+
+			#main2 > .post {
+				padding: 4rem 0rem 10rem 0rem;
+			}
 		
 				#main2 > * {
 					padding: 4rem 4rem 4rem 4rem ;
