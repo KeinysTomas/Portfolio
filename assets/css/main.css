@@ -115,7 +115,7 @@ input, select, textarea {
 
 @media screen and (max-width: 600px) {
 	.iconArea {
-		height: 660px;
+		height: 1660px;
 		overflow: visible;
 	 }
 	}
