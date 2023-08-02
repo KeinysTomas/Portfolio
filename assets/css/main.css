@@ -95,27 +95,27 @@ input, select, textarea {
   }
 
   .iconArea {
-    height: 250px;
+    height: 275px;
     overflow: visible;
 }
 
 @media screen and (max-width: 1024px) {
 	.iconArea {
-		height: 230px;
+		height: 255px;
 		overflow: visible;
 	 }
 	}
 
 	@media screen and (max-width: 769px) {
 		.iconArea {
-			height: 235px;
+			height: 245px;
 			overflow: visible;
 	 }
 	}
 
 @media screen and (max-width: 600px) {
 	.iconArea {
-		height: 910px;
+		height: 900px;
 		overflow: visible;
 	 }
 	}
