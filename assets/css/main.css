@@ -500,7 +500,15 @@ input, select, textarea {
 					#main2 > .post header.major2 h2 {
 						font-size: 1.75rem;
 						line-height: 1.3;
-						margin: 0 9rem 3.75rem 9rem;
+						margin: 0 6rem 3.75rem 6rem;
+					}
+
+					@media screen and (max-width: 992px) {
+						#main2 > .post header.major2 h2 {
+							font-size: 1.75rem;
+							line-height: 1.3;
+							margin: 0 2rem 3.75rem 2rem;
+						}
 					}
 		
 					@media screen and (max-width: 736px) {
