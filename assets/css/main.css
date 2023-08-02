@@ -537,7 +537,7 @@ input, select, textarea {
 					@media screen and (max-width: 1280px) {
 		
 						#main2 > .post {
-							padding: 6rem 4rem 4rem 4rem ;
+							padding: 6rem 4rem 2rem 4rem ;
 						}
 		
 					}
@@ -4810,7 +4810,7 @@ input, select, textarea {
             @media screen and (max-width: 992px) {
 		
 				#main2 > .post {
-					padding: 4rem 0rem 7.5rem 0rem ;
+					padding: 4rem 0rem 2rem 0rem ;
 				}
             }
 
