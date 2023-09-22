@@ -277,7 +277,12 @@ input, select, textarea {
 
 
 
-
+	@media (min-width: 992px) {
+		.aboutText {
+		margin-left: 4em;
+		margin-right: 4em;
+	   }
+	  }
 
 
 
