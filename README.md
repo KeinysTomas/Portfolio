@@ -8,7 +8,7 @@ Welcome to the official repository of Tomas Keinys's portfolio website. This pro
 - Optimized for SEO and fast performance  
 
 ## 🔗 Live Demo  
-[View Portfolio](https://yourportfolio.com)  
+[View Portfolio](https://keinystomas.github.io/Portfolio/)  
 
 ## 🛠️ Technologies Used  
 - HTML, CSS, JavaScript  
@@ -17,4 +17,4 @@ Welcome to the official repository of Tomas Keinys's portfolio website. This pro
 
 ## 📩 Contact  
 Feel free to connect:  
-[LinkedIn](https://linkedin.com/in/yourname) | [GitHub](https://github.com/yourgithub) | [Facebook](https://facebook.com/yourprofile)
+[LinkedIn](https://www.linkedin.com/in/tomas-keinys/) | [GitHub](https://github.com/KeinysTomas) | [Facebook](https://www.facebook.com/tomas.keinys.leeds/)
